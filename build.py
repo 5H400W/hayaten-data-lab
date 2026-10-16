@@ -1,6 +1,6 @@
 import math, random, os, zipfile
 OUT="/mnt/user-data/outputs/hayaten-site"; os.makedirs(OUT+"/assets",exist_ok=True)
-NAME="HAYATEN Data Lab"; EMAIL="info@yourdomain.com"; PHONE="[add number]"
+NAME="HAYATEN Data Lab"; EMAIL="info@hayatendatalab.com"; PHONE="+971 547876422"
 CSS="""*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:smooth}
 :root{--ink:#0a1a5c;--deep:#12308f;--em:#2a5be8;--teal:#4cc9f0;--gold:#5bd6f5;--ivory:#f4f8ff;--text:#0f1f4d;--mute:#56658c;--line:#d8e3f5}
 body{margin:0;font:400 17px/1.65 Manrope,system-ui,sans-serif;color:var(--text);background:var(--ivory)}
